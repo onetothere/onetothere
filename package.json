@@ -10,5 +10,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0",
+    "download-git-repo": "^3.0.2",
+    "open": "^7.4.2",
+    "typescript": "^4.1.5"
+  }
 }
